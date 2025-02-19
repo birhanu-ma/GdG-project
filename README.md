@@ -1,1 +1,1 @@
-# GdG-project
+# GDG_projects
