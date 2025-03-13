@@ -16,7 +16,7 @@ const groupMember = [
 ];
 
 
-const display = groupMember.map((name, index) => <li key={index}>{name} </li>);
+const display = groupMember.map((name, index) => <li key={index}>{index + 1+}. {name} </li>);
 
 root.render(
   <div className="form">
