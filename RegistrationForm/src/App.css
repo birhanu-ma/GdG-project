@@ -1,0 +1,28 @@
+form{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 50%;
+}
+label{
+    padding: 5px;
+    width: 100%;
+}
+
+li{
+    list-style-type: none;
+}
+button{
+    margin-left: 50px;
+}
+p{
+    padding: 0 70px;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+h4{
+    padding: 0;
+}
